@@ -1,4 +1,4 @@
-### `print (Hello World)👋
+### `print (Hello World)`👋
 
 <!--
 **farzado/farzado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,11 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/farzadkhodadadi/">
     <img align="left" alt="Farzad Khodadadi| Linkedin" width="64px" src="https://github.com/farzado/farzado/blob/master/Assets/linkedin.png" />
   </a>
-  <a href="https://twitter.com/TheDudeThatCode">
+  
+  <a href="https://twitter.com/farzado">
     <img align="left" alt="Farzad Khodadadi | Twitter" width="64px" src="https://github.com/farzado/farzado/blob/master/Assets/twitter.png" />
   </a>
 
 <br><br><br><br>  
 
-**⭐️ From [Farzado](https://github.com/farzado)**
+**⭐️ From [Farzad](https://github.com/farzado)**
